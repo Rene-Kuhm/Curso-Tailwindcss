@@ -1,0 +1,1 @@
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Volumes/Archivos/FireShot%2520Capture%2520002%2520-%2520Mi%2520primer%2520sitio%2520con%2520Tailwind%2520-%2520127.0.0.1.png?version%253D1706844075933)
